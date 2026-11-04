@@ -26,3 +26,10 @@ lib_managed
 src_managed/
 project/project
 project/target
+
+# WSL files
+.bloop
+.metals
+.vscode
+project/.bloop
+project/metals.sbt
